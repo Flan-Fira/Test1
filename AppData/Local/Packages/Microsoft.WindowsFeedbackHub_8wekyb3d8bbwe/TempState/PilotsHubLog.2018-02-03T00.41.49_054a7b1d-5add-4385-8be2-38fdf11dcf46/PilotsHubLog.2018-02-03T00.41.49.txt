@@ -1,0 +1,179 @@
+02/03/2018 00:41:49  6478986 :      Info  Activity ID: f5e8ae14-e185-41f1-9ba4-d81054b48f60
+02/03/2018 00:41:49  6478986 :      Info  SdkInitialize.Start[82]
+02/03/2018 00:41:49  0       :      Info  App Version: 1.1711.3412.0
+02/03/2018 00:41:49  6478986 :      Info  SdkInitialize.Stop[83] Elapsed MS [2]
+02/03/2018 00:41:49  0       :      Info  SdkWrapper: Registered HolographicSpace.IsAvailableChanged
+02/03/2018 00:41:49  6478986 :      Info  DeviceFamily is : windows.desktop
+02/03/2018 00:41:49  6478986 :      Info  ApplicationModel: InitializeHolographicSetup for Oasis Api
+02/03/2018 00:41:49  6478986 :      Info  SdkWrapper:Invoking HolographicSpace.IsAvailable
+02/03/2018 00:41:49  6478986 :      Info  SdkWrapper:HolographicSpace.IsAvailable returned False
+02/03/2018 00:41:49  6478986 :      Info  ApplicationModel: Api results: IsInHolographicShell = False, IsHMDConnected = False
+02/03/2018 00:41:49  6478986 :      Info  ApplicationModel: Registered SdkWrapper.IsAvailableChanged
+02/03/2018 00:41:49  6478986 :      Info  Awaiting task[1][.ctor.SetSaveLocalLogBaseFolder]
+02/03/2018 00:41:49  6478986 :      Info  Awaiting task[2][.ctor.DeleteUploadFolders]
+02/03/2018 00:41:49  6478986 :      Info  Feedback Hub: Build[16299.15.amd64fre.rs3_release.170928-1534] Online[Unknown] Debugger[False] Debug[False]
+02/03/2018 00:41:49  0       :      Info  Completing task[1][.ctor.SetSaveLocalLogBaseFolder]
+02/03/2018 00:41:49  6478986 :      Info  PilotsHubOnLaunched, args: CONTEXTUIF:?FolderName=C:\Users\User\Pictures\Feedback\{D95223E8-2A99-4FDB-9314-5719D657ABFE}, tileid: App
+02/03/2018 00:41:49  6478986 :      Info  Feedback Hub launching; ActivationType: 'Hardware', Kind: 'Launch', AppRunning: 'False'
+02/03/2018 00:41:49  6478986 :      Info  UIFActivationHandler.Initialize activation handler valid: True
+02/03/2018 00:41:49  6478986 :      Info  GetInstalledLegacyApps.Start[256]
+02/03/2018 00:41:49  6478986 :      Info  GetInstalledModernApps.Start[256]
+02/03/2018 00:41:49  6478986 :      Info  GetPublicModernApps.Start[256]
+02/03/2018 00:41:49  6478986 :      Info  Creating the extended splash screen. PrevState[NotRunning] WindowHasContent[False]
+02/03/2018 00:41:49  6478986 :      Info  HandleFirstActivation.Start[391]
+02/03/2018 00:41:49  6478986 :      Info  PilotsHubStartLaunch
+02/03/2018 00:41:49  0       :      Info  Completing task[2][.ctor.DeleteUploadFolders]
+02/03/2018 00:41:49  6478986 :      Info  LoadFromCache.Start[419]
+02/03/2018 00:41:49  6478986 :      Info  Awaiting task[3][HandleFirstActivation.LoadDiagCacheFirstActivation]
+02/03/2018 00:41:49  6478986 :      Info  Awaiting task[4][HandleFirstActivation.Are RS3 APIs available]
+02/03/2018 00:41:49  0       :      Info  Completing task[4][HandleFirstActivation.Are RS3 APIs available]
+02/03/2018 00:41:49  6478986 :      Info  Diagtrack background task already registered
+02/03/2018 00:41:49  6478986 :      Info  Creating shell host
+02/03/2018 00:41:49  6478986 :      Info  Adding new Shell to Tracked WindowModel management from Shell constructor.
+02/03/2018 00:41:49  6478986 :      Info  Initialize.Shell.Start[436]
+02/03/2018 00:41:49  6478986 :Main  Info  Initialize.Shell.Stop[464] Elapsed MS [28]
+02/03/2018 00:41:49  6478986 :Main  Info  RunChecks.Start[464]
+02/03/2018 00:41:49  6478986 :Main  Info  Beginning start up checks. Previously ran [False]
+02/03/2018 00:41:49  6478986 :Main  Info  RefreshNetworkConnection.Start[464]
+02/03/2018 00:41:49  6478986 :Main  Info  Refreshing network status
+02/03/2018 00:41:49  6478986 :Main  Info  The current internet connectivity profile has a ConnectivityLevel of 'InternetAccess'
+02/03/2018 00:41:49  6478986 :Main  Info  Current network status - Connected
+02/03/2018 00:41:49  6478986 :Main  Info  RefreshNetworkConnection.Stop[476] Elapsed MS [12]
+02/03/2018 00:41:49  6478986 :Main  Info  Refresh Cache Categories result - True
+02/03/2018 00:41:49  6478986 :Main  Info  RefreshSettings.Start[592]
+02/03/2018 00:41:49  6478986 :Main  Info  LoadSettingsFromCache.Start[592]
+02/03/2018 00:41:49  6478986 :Main  Info  LoadFromCache.Stop[741] Elapsed MS [322]
+02/03/2018 00:41:49  0       :      Info  Completing task[3][HandleFirstActivation.LoadDiagCacheFirstActivation]
+02/03/2018 00:41:49  6478986 :Main  Info  LoadSettingsFromCache.Stop[821] Elapsed MS [229]
+02/03/2018 00:41:49  6478986 :Main  Info  User settings valid [False]
+02/03/2018 00:41:49  6478986 :Main  Info  RefreshSettings.Stop[821] Elapsed MS [229]
+02/03/2018 00:41:49  6478986 :Main  Info  CollectionLevel:Full, has access:False
+02/03/2018 00:41:49  6478986 :Main  Info  CollectionLevel:Basic, has access:True
+02/03/2018 00:41:49  6478986 :Main  Info  ModelInfo: System manufacturerSystem Product Name
+02/03/2018 00:41:49  6478986 :Main  Info  Refreshing tento: initial error int is 0
+02/03/2018 00:41:49  6478986 :Main  Info  Refreshing tento in the background, cached value is False
+02/03/2018 00:41:49  6478986 :Main  Info  GetTentInfo.Start[823]
+02/03/2018 00:41:49  6478986 :Main  Info  Finished start up checks. HasNetwork[True] HasUserSettings[False] PrivacyStatus[L3[True] L4[False] Insider[False]] WelcomeDialog[False] ValidBuild[False] IsTented[False]
+02/03/2018 00:41:49  6478986 :Main  Info  RunChecks.Stop[847] Elapsed MS [382]
+02/03/2018 00:41:49  6478986 :Main  Info  Creating shell host
+02/03/2018 00:41:49  6478986 :Main  Info  IsKnownActivationType True
+02/03/2018 00:41:49  6478986 :Main  Info  GetStartupState [None]
+02/03/2018 00:41:49  6478986 :Main  Info  IsRestrictedStartupState [False] State [None]
+02/03/2018 00:41:49  6478986 :Main  Info  Categories - Checking for content in memory HasContent[False]
+02/03/2018 00:41:49  6478986 :Main  Info  LoadDataAsync.CategoriesVM.Start[849]
+02/03/2018 00:41:49  6478986 :Main  Info  Loading CategoriesVM based on network status[Connected] strategy[LoadFromCacheBackgroundDownload]
+02/03/2018 00:41:49  6478986 :Main  Info  CategoriesVM: Loading data from persistence store. InitialContent[False]
+02/03/2018 00:41:49  6478986 :Main  Info  NavigateToActivationPage: Resetting the navigation bar items
+02/03/2018 00:41:49  6478986 :Main  Info  GetNavPageItems: Device[Desktop]
+02/03/2018 00:41:49  6478986 :Main  Info  GetNavPageItems: Insider[False] Internal[False] Authenticated[False] Tent[False] Network[True]
+02/03/2018 00:41:49  6478986 :Main  Info  Reg[0]-Tab[Home]-Page[Home]
+02/03/2018 00:41:49  6478986 :Main  Info  Reg[1]-Tab[Feedback]-Page[FeedbackSearch]
+02/03/2018 00:41:49  6478986 :Main  Info  Reg[2]-Tab[Feedback]-Page[Restricted]
+02/03/2018 00:41:49  6478986 :Main  Info  Reg[3]-Tab[AdvancedDiagnostics]-Page[AdvancedDiagnostics]
+02/03/2018 00:41:49  6478986 :Main  Info  Reg[4]-Tab[Settings]-Page[Settings]
+02/03/2018 00:41:49  6478986 :Main  Info  Reg[5]-Tab[Feedback]-Page[FeedbackDetails]
+02/03/2018 00:41:49  6478986 :Main  Info  Reg[6]-Tab[Feedback]-Page[FeedbackNew]
+02/03/2018 00:41:49  6478986 :Main  Info  Reg[7]-Tab[None]-Page[SiufMainView]
+02/03/2018 00:41:49  6478986 :Main  Info  InitializeNavigationActionsAndStartingState.Start[851]
+02/03/2018 00:41:49  6478986 :Main  Info  InitializeNavigationActionsAndStartingState.Stop[851] Elapsed MS [0]
+02/03/2018 00:41:49  6478986 :Main  Info  ShellVM: Added 2 nav bar items
+02/03/2018 00:41:49  6478986 :Main  Info  GetStartupState [None]
+02/03/2018 00:41:49  6478986 :Main  Info  IsRestrictedStartupState [False] State [None]
+02/03/2018 00:41:49  6478986 :Main  Info  HandleAppActivation.Start[852]
+02/03/2018 00:41:49  6478986 :Main  Info  IsRestrictedFeedbackState: True, State NoCategories: 
+02/03/2018 00:41:49  6478986 :Main  Info  NavigateToPage.Feedback.Restricted.Start[856]
+02/03/2018 00:41:49  6478986 :Main  Info  OnNavigatedTo.FeedbackRestrictedPage.Start[861]
+02/03/2018 00:41:49  6478986 :Main  Info  LoadState.FeedbackRestrictedVM.Start[861]
+02/03/2018 00:41:49  6478986 :Main  Info  LoadState.FeedbackRestrictedVM.Stop[861] Elapsed MS [0]
+02/03/2018 00:41:49  6478986 :Main  Info  OnNavigatedTo.FeedbackRestrictedPage.Stop[861] Elapsed MS [0]
+02/03/2018 00:41:49  6478986 :Main  Info  NavigateToPage.Feedback.Restricted.Stop[861] Elapsed MS [6]
+02/03/2018 00:41:49  6478986 :Main  Info  HandleAppActivation.Stop[861] Elapsed MS [10]
+02/03/2018 00:41:49  6478986 :Main  Info  HandleFirstActivation.Stop[862] Elapsed MS [471]
+02/03/2018 00:41:49  6478986 :Main  Info  PilotsHubEndLaunch
+02/03/2018 00:41:49  6478986 :Main  Info  GetStartupState [None]
+02/03/2018 00:41:50  6478986 :Main  Info  PageLoaded.FeedbackRestrictedPage.Start[919]
+02/03/2018 00:41:50  6478986 :Main  Info  StartupReport - AppStartTime[919] Activation=[471] DiagnosticsLoad=[322] StartupChecks=[382] UserSettings=[230] NavigateToPage-Feedback.Restricted=[6] OnNavigatedTo-FeedbackRestrictedPage=[0] 
+02/03/2018 00:41:50  6478986 :Main  Info  PageLoaded.FeedbackRestrictedPage.Stop[921] Elapsed MS [2]
+02/03/2018 00:41:50  6478986 :Main  Info  InsidersHubNavigationInfo, FeedbackRestrictedPage
+02/03/2018 00:41:50  6478986 :Main  Info  Updating the current list of display profiles [] to a new list [21]
+02/03/2018 00:41:50  6478986 :Main  Info  Updating the current list of diagnostics [9] to a new list [9]
+02/03/2018 00:41:50  6478986 :Main  Info  CategoriesVM: Updating DataCache for VM from [PilotContracts.DataContracts.CategoryData] to [PilotContracts.DataContracts.CategoryData]
+02/03/2018 00:41:50  6478986 :Main  Info  CategoriesVM: Updating data in the view
+02/03/2018 00:41:50  6478986 :Main  Info  OnDataLoadedAsync.Start[1037]
+02/03/2018 00:41:50  6478986 :Main  Info  LoadAllAppsWorkerAsync.Start[1039]
+02/03/2018 00:41:50  6478986 :Main  Info  GetLocalApps.Start[1039]
+02/03/2018 00:41:50  6478986 :Main  Info  GetInstalledModernApps.Start[1039]
+02/03/2018 00:41:50  6478986 :Main  Info  GetTentInfo.Stop[1292] Elapsed MS [469]
+02/03/2018 00:41:50  6478986 :Main  Info  Tento - no
+02/03/2018 00:41:50  6478986 :Main  Info  Tento: value changed - update UI
+02/03/2018 00:41:50  6478986 :Main  Info  Tento refreshed: new app error int is 0, cached value is False
+02/03/2018 00:41:50  6478986 :Main  Info  Tento changed: False
+02/03/2018 00:41:51  6478986 :Main  Info  GetPublicModernApps.Stop[2111] Elapsed MS [1855]
+02/03/2018 00:41:51  6478986 :Main  Info  GetInstalledModernApps.Stop[2112] Elapsed MS [1073]
+02/03/2018 00:41:51  6478986 :Main  Info  GetInstalledModernApps.Stop[2112] Elapsed MS [1073]
+02/03/2018 00:41:51  6478986 :Main  Info  GetLocalApps.Stop[2526] Elapsed MS [1488]
+02/03/2018 00:41:51  6478986 :Main  Info  GetInstalledLegacyApps.Start[2527]
+02/03/2018 00:41:53  6478986 :Main  Info  GetInstalledLegacyApps.Stop[4178] Elapsed MS [1650]
+02/03/2018 00:41:53  6478986 :Main  Info  GetInstalledLegacyApps.Stop[4178] Elapsed MS [1650]
+02/03/2018 00:41:53  6478986 :Main  Info  GetInstalledModernApps.Start[4178]
+02/03/2018 00:41:53  6478986 :Main  Info  GetInstalledModernApps.Stop[4178] Elapsed MS [0]
+02/03/2018 00:41:53  6478986 :Main  Info  LoadAllAppsWorkerAsync.Stop[4178] Elapsed MS [3139]
+02/03/2018 00:41:53  6478986 :Main  Info  RefreshAllCategoryLists.Start[4181]
+02/03/2018 00:41:53  6478986 :Main  Info  OnCategoryListsChanged.AllFeedback.Start[4183]
+02/03/2018 00:41:53  6478986 :Main  Info  OnCategoryListLoaded.AllFeedback.Start[4183]
+02/03/2018 00:41:53  6478986 :Main  Info  OnCategoryListLoaded.AllFeedback.Stop[4183] Elapsed MS [0]
+02/03/2018 00:41:53  6478986 :Main  Info  OnCategoryListsChanged.AllFeedback.Stop[4183] Elapsed MS [0]
+02/03/2018 00:41:53  6478986 :Main  Info  RefreshAllCategoryLists.Stop[4183] Elapsed MS [3]
+02/03/2018 00:41:53  6478986 :Main  Info  RefreshAllCategoryLists.Start[4184]
+02/03/2018 00:41:53  6478986 :Main  Info  OnCategoryListsChanged.MyFeedback.Start[4184]
+02/03/2018 00:41:53  6478986 :Main  Info  OnCategoryListLoaded.MyFeedback.Start[4184]
+02/03/2018 00:41:53  6478986 :Main  Info  OnCategoriesLoaded.FeedbackRestrictedVM.Start[4184]
+02/03/2018 00:41:53  6478986 :Main  Info  PrepareNavigationArguments.FeedbackRestrictedVM.Start[4184]
+02/03/2018 00:41:53  6478986 :Main  Info  PrepareNavigationArguments.FeedbackRestrictedVM.Stop[4184] Elapsed MS [0]
+02/03/2018 00:41:53  6478986 :Main  Info  IsRestrictedFeedbackState: False, State None: 
+02/03/2018 00:41:53  6478986 :Main  Info  NavigateToPage.Feedback.FeedbackNew.Start[4185]
+02/03/2018 00:41:53  6478986 :Main  Info  OnNavigatedFrom.FeedbackRestrictedPage.Start[4240]
+02/03/2018 00:41:53  6478986 :Main  Info  SaveState.FeedbackRestrictedVM.Start[4240]
+02/03/2018 00:41:53  6478986 :Main  Info  SaveState.FeedbackRestrictedVM.Stop[4240] Elapsed MS [0]
+02/03/2018 00:41:53  6478986 :Main  Info  OnNavigatedFrom.FeedbackRestrictedPage.Stop[4240] Elapsed MS [0]
+02/03/2018 00:41:53  6478986 :Main  Info  OnNavigatedTo.NewIssuePage.Start[4240]
+02/03/2018 00:41:53  6478986 :Main  Info  OnNavigatedTo.NewIssuePage.Stop[4242] Elapsed MS [2]
+02/03/2018 00:41:53  6478986 :Main  Info  PilotsHubFeedbackAppLaunch
+02/03/2018 00:41:53  6478986 :Main  Info  NavigateToPage.Feedback.FeedbackNew.Stop[4243] Elapsed MS [58]
+02/03/2018 00:41:53  6478986 :Main  Info  OnCategoriesLoaded.FeedbackRestrictedVM.Stop[4243] Elapsed MS [59]
+02/03/2018 00:41:53  6478986 :Main  Info  OnCategoryListLoaded.MyFeedback.Stop[4243] Elapsed MS [59]
+02/03/2018 00:41:53  6478986 :Main  Info  OnCategoryListsChanged.MyFeedback.Stop[4243] Elapsed MS [59]
+02/03/2018 00:41:53  6478986 :Main  Info  RefreshAllCategoryLists.Stop[4243] Elapsed MS [60]
+02/03/2018 00:41:53  6478986 :Main  Info  OnDataLoadedAsync.Stop[4243] Elapsed MS [3206]
+02/03/2018 00:41:53  6478986 :Main  Info  CategoriesVM: Successfully refreshed data
+02/03/2018 00:41:53  6478986 :Main  Info  CategoriesVM: Downloading network data async in background
+02/03/2018 00:41:53  6478986 :Main  Info  NetworkLoad.CategoriesVM.Start[4243]
+02/03/2018 00:41:53  6478986 :Main  Info  DownloadDiagtrackScenarios.Start[4243]
+02/03/2018 00:41:53  6478986 :Main  Info  LoadDataAsync.CategoriesVM.Stop[4247] Elapsed MS [3398]
+02/03/2018 00:41:53  6478986 :Main  Info  Finished loading CategoriesVM based result - Complete
+02/03/2018 00:41:53  6478986 :Main  Info  MDM Save Local Diagnostics: this is not managed by MDM
+02/03/2018 00:41:53  6478986 :Main  Info  FeedbackHubSaveLocalDiagnosticsPolicyStatus, status:NoPolicy
+02/03/2018 00:41:53  6478986 :Main  Info  CollectionLevel:Full, has access:False
+02/03/2018 00:41:53  6478986 :Main  Info  CollectionLevel:Full, has access:False
+02/03/2018 00:41:53  6478986 :Main  Info  CollectionLevel:Full, has access:False
+02/03/2018 00:41:53  6478986 :Main  Info  IsUiRecordingSupported.Start[4265]
+02/03/2018 00:41:53  6478986 :Main  Info  IsUiRecordingSupported.Stop[4266] Elapsed MS [1]
+02/03/2018 00:41:53  6478986 :Main  Info  LongRunningTraceProviderChangedEvent, newProvider = 性能
+02/03/2018 00:41:53  6478986 :Main  Info  isInHolographicShell = False, isHMDConnected = False, isHolographicCategory = False, canShowHolographicCheckBox = False
+02/03/2018 00:41:53  6478986 :Main  Info  PageLoaded.NewIssuePage.Start[4354]
+02/03/2018 00:41:53  6478986 :Main  Info  PageLoaded.NewIssuePage.Stop[4354] Elapsed MS [0]
+02/03/2018 00:41:53  6478986 :Main  Info  InsidersHubNavigationInfo, NewIssuePage
+02/03/2018 00:41:53  6478986 :Main  Info  CollectionLevel:Full, has access:False
+02/03/2018 00:41:53  6478986 :Main  Info  CollectionLevel:Full, has access:False
+02/03/2018 00:41:53  6478986 :Main  Info  CollectionLevel:Full, has access:False
+02/03/2018 00:41:53  6478986 :Main  Info  CollectionLevel:Full, has access:False
+02/03/2018 00:41:53  6478986 :Main  Info  CollectionLevel:Full, has access:False
+02/03/2018 00:41:53  6478986 :Main  Info  CollectionLevel:Full, has access:False
+02/03/2018 00:41:53  6478986 :Main  Info  CollectionLevel:Full, has access:False
+02/03/2018 00:41:53  6478986 :Main  Info  FeedbackInfo, message Count of diagnosticsData.uifDiagnostic from data cache is 446
+02/03/2018 00:41:53  6478986 :Main  Info  IsScenarioActiveWinRT.2e4b8531-7f5e-4ac7-8a04-7b88807155a6.Start[4368]
+02/03/2018 00:41:53  6478986 :Main  Info  RS3 APIs are available 
+02/03/2018 00:41:53  6478986 :Main  Info  FeedbackInfo, message Count of diagnosticsData.uifDiagnostic from data cache is 446
+02/03/2018 00:41:53  6478986 :Main  Info  IsScenarioActiveWinRT.2e4b8531-7f5e-4ac7-8a04-7b88807155a6.Start[4396]
+02/03/2018 00:41:53  6478986 :Main  Info  PageUnloaded.FeedbackRestrictedPage.Start[4404]
+02/03/2018 00:41:53  6478986 :Main  Info  PageUnloaded.FeedbackRestrictedPage.Stop[4404] Elapsed MS [0]

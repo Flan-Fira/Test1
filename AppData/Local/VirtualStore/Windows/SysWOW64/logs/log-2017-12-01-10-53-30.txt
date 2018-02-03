@@ -1,0 +1,15 @@
+OpenGL ES 3.0 Renderer: GeForce GTX 980/PCIe/SSE2
+GLES3: max ubo light: 409
+GLES3: max ubo reflections: 455, ubo size: 144
+**ERROR**: GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 1 is being recompiled based on GL state.
+   At: drivers\gles3\rasterizer_gles3.cpp:122:_gl_debug_print() - GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 1 is being recompiled based on GL state.
+ARVR: Registered interface: Native mobile
+**ERROR**: GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 1 is being recompiled based on GL state.
+   At: drivers\gles3\rasterizer_gles3.cpp:122:_gl_debug_print() - GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 1 is being recompiled based on GL state.
+**ERROR**: GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 4 is being recompiled based on GL state.
+   At: drivers\gles3\rasterizer_gles3.cpp:122:_gl_debug_print() - GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 4 is being recompiled based on GL state.
+..http://127.0.0.1/asset-library/api
+..http://127.0.0.1/asset-library/api
+**ERROR**: GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 7 is being recompiled based on GL state.
+   At: drivers\gles3\rasterizer_gles3.cpp:122:_gl_debug_print() - GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 7 is being recompiled based on GL state.
+..http://127.0.0.1/asset-library/api

@@ -1,0 +1,207 @@
+OpenGL ES 3.0 Renderer: GeForce GTX 980/PCIe/SSE2
+GLES3: max ubo light: 409
+GLES3: max ubo reflections: 455, ubo size: 144
+ARVR: Registered interface: Native mobile
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+unicode error: invalid skip
+**ERROR**: GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 10 is being recompiled based on GL state.
+   At: drivers\gles3\rasterizer_gles3.cpp:122:_gl_debug_print() - GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 10 is being recompiled based on GL state.
+**ERROR**: GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 10 is being recompiled based on GL state.
+   At: drivers\gles3\rasterizer_gles3.cpp:122:_gl_debug_print() - GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 10 is being recompiled based on GL state.
+**ERROR**: GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 13 is being recompiled based on GL state.
+   At: drivers\gles3\rasterizer_gles3.cpp:122:_gl_debug_print() - GL ERROR: Source: OpenGL	Type: Performance	ID: 131218	Severity: Medium	Message: Program/shader state performance warning: Vertex shader in program 13 is being recompiled based on GL state.
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/1654941949/AppWebCache/1/pub.idqqimg.com/qqfind/img/location-tip.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/1654941949/AppWebCache/1/pub.idqqimg.com/qqfind/img/location-tip.png
+**WARNING**: iCCP: known incorrect sRGB profile
+   At: drivers\png\image_loader_png.cpp:66:_png_warn_function() - iCCP: known incorrect sRGB profile
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/609C75149930BEE2452367DAD4016D30.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/609C75149930BEE2452367DAD4016D30.png
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/626C31B7315B8DC8DE82D9EE385B6D0B.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/626C31B7315B8DC8DE82D9EE385B6D0B.png
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/675E7A6759DB7CE2BE2F72039C56F06B.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/675E7A6759DB7CE2BE2F72039C56F06B.png
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/775F1EF5394FF971EEB19F3628E54E94.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/775F1EF5394FF971EEB19F3628E54E94.png
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/454693BDB0ACE1A669785857A06957F0.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/454693BDB0ACE1A669785857A06957F0.png
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/5598003E9D283BD03D5E2D655AA3BB5E.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/5598003E9D283BD03D5E2D655AA3BB5E.png
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/A95A070A2118D4E122A0B9C3C2938394.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/A95A070A2118D4E122A0B9C3C2938394.png
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/BB1A1F8763542D11102749C17231F800.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/BB1A1F8763542D11102749C17231F800.png
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/CDF64D17137DD4E7885204A6E3E07303.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/CDF64D17137DD4E7885204A6E3E07303.png
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/CF2347CAB77DA90CD82B1746264C70CE.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/CF2347CAB77DA90CD82B1746264C70CE.png
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/D3FF59315D416C995195BB63F0658700.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/D3FF59315D416C995195BB63F0658700.png
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/D4606127861622871C8FAA144A0C5750.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/D4606127861622871C8FAA144A0C5750.png
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/E2401F141EFFF47C4D9A64AC8EA68287.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/E2401F141EFFF47C4D9A64AC8EA68287.png
+**ERROR**: Not a PNG file
+   At: drivers\png\image_loader_png.cpp:61:_png_error_function() - Not a PNG file
+**ERROR**: PNG Corrupted
+   At: drivers\png\image_loader_png.cpp:93:ImageLoaderPNG::_load_image() - PNG Corrupted
+**ERROR**: Error importing: res://Tencent Files/641379773/Video/FCB361854B1241463512883DB045C624.png
+   At: editor\editor_file_system.cpp:1350:EditorFileSystem::_reimport_file() - Error importing: res://Tencent Files/641379773/Video/FCB361854B1241463512883DB045C624.png
+**WARNING**: iCCP: known incorrect sRGB profile
+   At: drivers\png\image_loader_png.cpp:66:_png_warn_function() - iCCP: known incorrect sRGB profile
+**WARNING**: iCCP: known incorrect sRGB profile
+   At: drivers\png\image_loader_png.cpp:66:_png_warn_function() - iCCP: known incorrect sRGB profile
